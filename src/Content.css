@@ -1,9 +1,46 @@
 .content {
-    background: red;
+    background: rgb(181, 2, 2);
     padding: 2em;
     color: white;
     flex: 1;
     border: 10cap;
-    border-radius: 0cap;
+    border-radius: 1cap;
+
+  .content {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.tablo {
+  
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  
+
+}
+
+.tablo table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.tablo table td {
+  padding: 10px;
+  border: 1px solid #9a9898; 
+}
+
+.section {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #282727;
+  color: white; 
+  border-radius: 5px;
+}
+
   }
   

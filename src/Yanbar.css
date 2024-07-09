@@ -3,7 +3,9 @@
     padding: 1em;
     color: white;
     flex: 0 0 200px;
-
+    border: 10cap;
+    border-radius: 1cap;
+    
     
 
   }
